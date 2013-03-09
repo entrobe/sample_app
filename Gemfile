@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0.beta1'
+gem 'bundler', '1.3.2'
 
 group :development, :test do
   gem 'sqlite3'
