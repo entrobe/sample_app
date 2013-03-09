@@ -19,7 +19,7 @@ group :assets do
 end
 
 group :product do
-  gem 'pg', '0.12.2'
+  gem 'pg', '0.14.1'
 end
 
 gem 'jquery-rails'
